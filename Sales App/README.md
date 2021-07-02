@@ -1,4 +1,4 @@
-# Food Point Project
+# Sales App Project
 
 ### Client's Country : Australia
 ### Category : Retail
